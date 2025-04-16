@@ -1,1 +1,2 @@
 hello world
+macha i am rying to learn git
